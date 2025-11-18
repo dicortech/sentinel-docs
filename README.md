@@ -1,1 +1,0 @@
-## Documentation of Sentinel Platform.

@@ -1,0 +1,14 @@
+{
+    "name_family": "Sentinel",
+    "name_som": "SOM_SL1680_Mk1",
+    "name_som_pn": "CMSAC1_AS6806_A",
+    "name_machine":"sentinel_som_sl1680_mk1",
+    "name_evk": "EVK_SL1680_Mk1",
+    "name_evk_pn": "CMCGAS_AGSL_A",
+    "image_1":"sentinel-core",
+    "image_2":"sentinel-media",
+    "image_3":"sentinel-media-oobe",
+    "dct_layer":"meta-dctk-sentinel",
+    "user_name":"root",
+    "host_name":"setinel"
+}
