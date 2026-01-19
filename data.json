@@ -10,5 +10,7 @@
     "image_3":"sentinel-media-oobe",
     "dct_layer":"meta-dctk-sentinel",
     "user_name":"root",
-    "host_name":"setinel"
+    "host_name":"sentinel",
+    "name_mach1":"sentinel-som-sl1680-mk1-rfb-mk1",
+    "name_mach2":"sentinel-som-sl1680-mk1-rfb-mk2"
 }
